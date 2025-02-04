@@ -1,3 +1,3 @@
 "GitHub test" 
 "New contribution test" 
-" adding something to chek if it is showing in the contributions or not" 
+" adding something to check if it is showing in the contributions or not" 
